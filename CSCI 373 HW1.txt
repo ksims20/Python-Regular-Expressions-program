@@ -1,0 +1,17 @@
+1. Give a regular expression that can be used to recognize a US phone number. Consider as many different ways a valid phone number is written in. 
+Write a short Python program that can identify US phone numbers from a given string of text.
+
+2. Give a regular expression that can recognize an email address. Write a short Python program that can identify email addresses from a given string of text.
+
+3. Write a short python program that can check whether a password contains a digit.
+
+4. Define a rule for passwords, read a password from the user using prompt, and check it.
+
+5. Split the following sentences into an array that contains only its words.
+
+"Tom cried: 'What is going on?'. Then he left the room."
+
+6. Input a one page long file and tokenize the text into words. Also get rid of "stop words". 
+
+7. Learn about popular datasets like Ontonotes, Gutenburg project etc. Also explore other 
+datasets, or think of creating your own dataset for the course project.
